@@ -11,5 +11,6 @@ tags:
   - transparentnost
   - dokumenty
 ---
+PŘÍKLAD ČLÁNKU PŘÍKLAD ČLÁNKU PŘÍKLAD ČLÁNKU PŘÍKLAD ČLÁNKU PŘÍKLAD ČLÁNKU PŘÍKLAD ČLÁNKU
 
 Zveřejňujeme [zápis](/assets/doc/2020-03-11-zapis_financni_vybor.pdf) z posledního finančního výboru.
