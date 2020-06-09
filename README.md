@@ -25,6 +25,7 @@ alias
   - odpařování
   - legislativa
   - kontrola-moci-a-mocných
+  - stavební-povolení
   - dotace
   - vodohospodářství
   - VaK
