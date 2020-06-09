@@ -6,20 +6,20 @@
 #
 
 title: Piráti Týn # To co je napsané na tabu ve kterém je stránka.
-email: jan.novak@pirati.cz
+email: sucho@pirati.cz
 description: >-
-  Piráti Týn nad Vltavou
+  Sucho téma Piráti 
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 keywords: piráti, česká pirátská strana, svoboda, demokracie, Týn nad Vltavou, TnV, místní združení,
 
 administrator:
-  email: pajamac5@gmail.com, jan.suchanek@gmail.com # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
+  email: marek.krejpsky@gmail.com # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
 organization:
-  name: Piráti Týn nad Vltavou
-  shortName: Týn nad Vltavou
-  email: jan.novak@pirati.cz
-  phone: +420 777 I54 693
+  name: Česká pirátská strana
+  shortName: Piráti
+  email: pirati@pirati.cz
+  phone: +420 608 963 111
 #  address: |
 #    Řehořova 943/19,
 #    130 00 Praha 3
@@ -52,8 +52,8 @@ contactSummaryItems:
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/PiratiTyn/
-  profilePageName: Piráti Týn nad Vltavou
+  profilePage: https://www.facebook.com/ceska.piratska.strana/
+  profilePageName: Piráti 
   appId: 1526197851008996
 
 twitter:
@@ -73,7 +73,7 @@ twitter:
 #  page: https://forum.pirati.cz/
 
 github:
-  url: https://github.com/pirati-web/tyn.pirati.cz/
+  url: https://github.com/pirati-web/sucho.pirati.cz/
   branch: master
 
 #
