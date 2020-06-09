@@ -16,13 +16,34 @@ main:
   - link: /lide/
     name: O nás
     match: lide
-  - link: /komunalni-volby/
-    name: Komunální volby
-    match: komunalni-volby
+  - link: /temata/
+    name: Témata
+    match: témata
     submenu:
-      - link: /komunalni-volby/mapa-zameru/
-        name: Mapa záměrů
-        match: mapa-zameru
+      - link: /temata/vak/
+        name: VaK
+        match: VaK
+      - link: /temata/destovka/
+        name: Dešťovka
+        match: destovka
+      - link: /temata/vodni-dila/
+        name: Vodní-díla
+        match: vodní-díla
+      - link: /temata/odparovani/
+        name: Odpařování
+        match: odpařování
+      - link: /temata/krajinotvorba/
+        name: Krajinotvorba
+        match: krajinotvorba
+      - link: /temata/cisteni-vody/
+        name: Čištění-vody
+        match: čištění-vody
+      - link: /obory/puda/
+        name: Půda a meliorace
+        match: půda a meliorace 
+      - link: /obory/vodohospodarstvi/
+        name: Vodohospodáři
+        match: vodohospodarstvi        
   - link: /kontakt/
     name: Kontakt
     match: kontakt
@@ -33,15 +54,6 @@ bottom:
     links:
       - link: /kontakt/
         name: Dej nám vědět
-  - class: small-12 medium-4
-    title: Makáme
-    links:
-      - link: /lide/
-        name: Lidé
-      - link: /komunalni-volby/
-        name: Volby
-      - link: /aktuality/
-        name: Aktuality
   - class: small-12 medium-4
     title: Otevřenost
     links:
