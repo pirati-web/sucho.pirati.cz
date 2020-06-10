@@ -20,7 +20,6 @@ main:
     name: Témata
     match: témata
     submenu:
-
       - link: /temata/sucho/
         name: Sucho a klimatická změna 
         match: sucho
@@ -30,7 +29,7 @@ main:
       - link: /temata/kolobeh-vody/
         name: Koloběh vody
         match: kolobeh-vody
-      - link: /obory/puda/
+      - link: /temata/puda/
         name: Půda a voda
         match: půda a voda
       - link: /temata/vak/
@@ -39,7 +38,7 @@ main:
       - link: /temata/vodni-dila/
         name: Vodní-díla
         match: vodní-díla        
-      - link: /obory/vodohospodarstvi/
+      - link: /temata/vodohospodarstvi/
         name: Vodohospodáři
         match: vodohospodarstvi        
   - link: /kontakt/
