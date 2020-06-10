@@ -20,27 +20,25 @@ main:
     name: Témata
     match: témata
     submenu:
-      - link: /temata/vak/
-        name: VaK
-        match: VaK
-      - link: /temata/destovka/
-        name: Dešťovka
-        match: destovka
-      - link: /temata/vodni-dila/
-        name: Vodní-díla
-        match: vodní-díla
-      - link: /temata/odparovani/
-        name: Odpařování
-        match: odpařování
+
+      - link: /temata/sucho/
+        name: Sucho a klimatická změna 
+        match: sucho
       - link: /temata/krajinotvorba/
         name: Krajinotvorba
         match: krajinotvorba
-      - link: /temata/cisteni-vody/
-        name: Čištění-vody
-        match: čištění-vody
+      - link: /temata/kolobeh-vody/
+        name: Koloběh vody
+        match: kolobeh-vody
       - link: /obory/puda/
-        name: Půda a meliorace
-        match: půda a meliorace 
+        name: Půda a voda
+        match: půda a voda
+      - link: /temata/vak/
+        name: VaK a pitná voda
+        match: VaK a pitná voda
+      - link: /temata/vodni-dila/
+        name: Vodní-díla
+        match: vodní-díla        
       - link: /obory/vodohospodarstvi/
         name: Vodohospodáři
         match: vodohospodarstvi        
