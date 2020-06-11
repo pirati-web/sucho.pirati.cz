@@ -1,7 +1,7 @@
 ---
 date:         2020-06-10
 category:     blog
-tags:         sněmovna životní-prostředí vodohospodářství odpady Dana-Balcarová František-Elfmark
+tags:         sněmovna životní-prostředí vodohospodářství koloběh-vody půda-a-voda odpady Dana-Balcarová František-Elfmark
 layout:       post
 title:        "Report Dany Balcarové: Sucho a odpady pirátským tématem na výboru pro životní prostředí"
 image:        posts/balcarova-sucho-odpady.jpg
