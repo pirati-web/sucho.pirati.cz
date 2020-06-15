@@ -6,7 +6,7 @@ date: 2020-06-15
 author: Hana Ančincová
 authorId: hana.ancincova
 image: posts/vodauh.jpg
-tags: zlínsky-kraj vodohospodářství krajinotvorba Hana-Ančincová 
+tags: zlínsky-kraj vodohospodářství krajinotvorba Hana-Ančincová pitná-voda VaK
 ---
 To, že mají lidé mají oprávněné obavy o zdroj pitné vody, ukázala hojná účast na protestním pochodu, který pořádal spolek Za vodu pro lidi. Pochod za vodu se konal v sobotu 13. června, kdy se na místě plánované těžby setkaly skupiny vycházející ze třech míst, Moravského písku, Veselí nad Moravou a Uherského Ostrohu.  Fakt, že je třeba bít na poplach co nejhlasitěji, způsobilo i rozhodnutí báňského úřadu ze dne 19. května o stanovení dobývacího prostoru. Dalším krokem, který zájemce o těžbu bude muset absolvovat, je navazující správní řízení, to znamená již samotné povolení těžby, které bude řešit opět Obvodní báňský úřad se sídlem v Brně. Takže pokud zájemce uspěl i v tomto kroku, tak by subjekt mohl začít těžit. Jestli se ptáte, co lze dělat dál? Tak odpověď zní – jedině podání správní žaloby. A jak můžou pomoci naši politici? Rada Zlínského kraje by se podle mě měla minimálně připojit k žalobě 
 ravského kraje proti rozhodnutí Českého báňského úřadu o stanovení dobývacího území pro těžbu štěrkopísku mezi Uherským Ostrohem a Moravským Pískem. 
