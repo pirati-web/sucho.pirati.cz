@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Hana Ančincová : Lidé mají oprávněné obavy o zdroj pitné vody'
 date: 2020-06-15
