@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Sucho a klimatická změna
