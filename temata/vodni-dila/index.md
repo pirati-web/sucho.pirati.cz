@@ -13,7 +13,7 @@ keywords: Vodní díla, vodní stavitelství, přehrady, jezy, navigace, povodn�
           <header class="c-page-header">
             <h1 itemprop="headline" class="c-page-title">Vodní díla </h1>
           </header>
-          {% assign tag = 'vodni-dila'  %}
+          {% assign tag = 'vodní-díla'  %}
           <ul>
           {% for post in site.tags[tag] %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
