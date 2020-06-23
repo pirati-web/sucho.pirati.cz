@@ -1,7 +1,7 @@
 ---
 date: 2020-06-18
 category: blog
-tags: Poslanecká-sněmovna Pošvář zemědělství životní-prostředí vodohospodářství koloběh-vody vodní-díla VaK
+tags: Poslanecká-sněmovna Pošvář zemědělství životní-prostředí vodohospodářství koloběh-vody vodní-díla VaK vodní-doprava vodáci půda-a-voda
 layout: post
 title: Vodu řešíme teď- Piráti představili plán na boj s extrémními projevy změny klimatu
 author: Redakce
