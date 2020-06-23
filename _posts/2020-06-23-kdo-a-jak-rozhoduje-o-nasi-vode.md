@@ -1,7 +1,7 @@
 ---
 date: 2020-06-23
 category: blog
-tags:  Jablonec-nad-Nisou VaK vodohospodářství Vladimír-Opatrný
+tags:  Jablonec-nad-Nisou vak vodohospodářství Vladimír-Opatrný
 layout: post
 title: Kdo a jak rozhoduje o naší vodě
 author: Vladimír Opatrný
@@ -48,6 +48,6 @@ Jestliže se změnu prosadit nepodaří, nebude hlasovat pro schválení podnika
 
 __Koaliční zastupitelé podpořili původní návrh a vyslali na valnou hromadu primátora Čeřovského. Ten si náš záměr neosvojil a jeví se, že bude prosazovat model řízení naší společnosti SČS minoritním spoluvlastníkem. Strategické rozhodování v hospodaření s vodou tak dáváme do rukou lidem, kteří na první místě musí hájit zisk zahraničního vlastníka. Je to velmi špatná zpráva pro naši vodu i kvalitu života v našem regionu.__
 
-[Vladimír Opatrný](/lide/vladimir-opatrny), zastupitel za ČPS
+[Vladimír Opatrný](https://jablonec.pirati.cz/lide/vladimir-opatrny/), zastupitel za ČPS
 
 [Celý bod ve zvukovém záznamu zastupitelstva města Jablonec nad Nisou ze dne 21. května 2020](https://www.mestojablonec.cz/cs/samosprava/zastupitelstvo/2020/zastupitelstvo-21-05-2020/zvukovy-zaznam-po-bodech.html){:target="_blank"}
