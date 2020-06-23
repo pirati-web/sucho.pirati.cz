@@ -42,7 +42,7 @@ keywords: sucho, témata, piráti
 		<tr>
 		  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/krajinotvorba">KRAJINOTVORBA</a></h2></td>
 		  <td>&nbsp;</td>
-		  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/vak">V a K</a></h2></td>
+		  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/vak">VODOVODY A KANALIZACE</a></h2></td>
 		</tr>   		
               </table>  
   </div>
