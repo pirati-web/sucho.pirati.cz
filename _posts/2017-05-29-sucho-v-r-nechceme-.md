@@ -9,7 +9,7 @@ image: posts/Moynaq_Aral-Sea_Ships.jpg
 description: >-
   Trápí nás sucho. Na jihu Moravy to v teplých měsících pociťujeme rok od roku
   více. Ohrožené není jenom zemědělství, ale obyvatelnost regionu jako taková.
-tags: sucho zemědělství životní-prostředí vodohospodářství rostlinná-výroba krajinotvorba
+tags: sucho zemědělství životní-prostředí vodohospodářství rostlinná-výroba krajinotvorba půda-a-voda
 ---
 Trápí nás sucho. Na jihu Moravy to v teplých měsících pociťujeme rok od roku více. Ohrožené není jenom zemědělství, ale obyvatelnost regionu jako taková. A zdánlivě paradoxně zároveň přibývá bleskových povodní. Před pár týdny moje rodná Strážnice, a celá řada dalších obcí v regionu, zažila bleskovou povodeň, kdy se po pár desítkách minut trvajícím intenzivním dešti a krupobití proměnily ulice v potoky plné bláta. Pár dní na to praskliny v půdě zase připomínaly spíš subsaharskou Afriku než střední Evropu. Prostě se v krátkém čase vystřídaly dva extrémy. Extrémy mající totožné příčiny.
 
