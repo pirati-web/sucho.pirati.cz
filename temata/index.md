@@ -24,7 +24,7 @@ keywords: sucho, témata, piráti
             
                 <tr><td<a href="{{site.baseurl}}/temata/vodni-dila"><img src="{{site.baseurl}}/assets/img/vodni-dila.jpg"  alt="vodni-dila" width="345" height="230"></a></td>
                   <td><a href="{{site.baseurl}}/temata/vodni-dila"><img src="{{site.baseurl}}/assets/img/vodaci-1.jpg"  alt="vodaci" width="345" height="230"></a></td>
-                  <td><a href="{{site.baseurl}}/temata/vodni-dila"><img src="{{site.baseurl}}/assets/img/vodni-cesta-labe-s.jpg"  alt="vodni-doprava" width="345" height="230"></a:</td>                  
+                  <td><a href="{{site.baseurl}}/temata/vodni-dila"><img src="{{site.baseurl}}/assets/img/vodni-cesta-labe-s.jpg"  alt="vodni-doprava" width="345" height="230"></a></td>                  
                   </tr>
                 <tr><td<h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/vodni-dila">VODNÍ DÍLA</a></td>                  
                    <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/vodni-dila">VODÁCI A TURISTIKA</a></h2></td>
