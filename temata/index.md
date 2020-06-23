@@ -20,7 +20,9 @@ keywords: sucho, témata, piráti
 		</tr>
 
 		<tr>
-		  <td><a href="{{site.baseurl}}/temata/vodohospodarstvi"><img src="{{site.baseurl}}/assets/img/vodohospodarstvi2.jpg"  alt="vodohospodarstvi" width="345"height="230"></a></td>
+		  <td><a href="{{site.baseurl}}/temata/vodohospodarstvi">
+		  <img src="{{site.baseurl}}/assets/img/vodohospodarstvi2.jpg"  alt="vodohospodarstvi" width="345"height="230">
+		  </a></td>
 		  <td><a href="{{site.baseurl}}/temata/krajinotvorba"><img src="{{site.baseurl}}/assets/img/krajinotvorba.jpg"  alt="krajinotvorba" width="345" height="230"></a></td>
 		  <td><a href="{{site.baseurl}}/temata/vak"><img src="{{site.baseurl}}/assets/img/vak.jpg"  alt="vak" width="345" height="230"></a></td>
 		</tr>
