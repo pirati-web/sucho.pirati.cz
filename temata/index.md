@@ -23,8 +23,8 @@ keywords: sucho, témata, piráti
 
 		<tr>
 		  <td><a href="{{site.baseurl}}/temata/vodni-dila"><img src="{{site.baseurl}}/assets/img/vodni-dila.jpg"  alt="vodni-dila" width="345" height="230"></a></td>
-		  <td><a href="{{site.baseurl}}/temata/vodni-dila"><img src="{{site.baseurl}}/assets/img/vodaci-1.jpg"  alt="vodaci" width="345" height="230"></a></td>
-		  <td><a href="{{site.baseurl}}/temata/vodni-dila"><img src="{{site.baseurl}}/assets/img/vodni-cesta-labe-s.jpg"  alt="vodni-doprava" width="345" height="230"></a></td>                  
+		  <td><a href="{{site.baseurl}}/temata/vodaci"><img src="{{site.baseurl}}/assets/img/vodaci-1.jpg"  alt="vodaci" width="345" height="230"></a></td>
+		  <td><a href="{{site.baseurl}}/temata/vodni-doprava"><img src="{{site.baseurl}}/assets/img/vodni-cesta-labe-s.jpg"  alt="vodni-doprava" width="345" height="230"></a></td>                  
 		</tr>
 
 		<tr>
