@@ -30,6 +30,8 @@ alias
   - vodohospodářství
   - VaK
   - vodní-díla
+  - vodní-doprava
+  - vodáci
   - meliorace
   - lesnictví
   - zemědělství
