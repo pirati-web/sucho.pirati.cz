@@ -1,7 +1,7 @@
 ---
 date:         2020-06-16
 category:     blog
-tags:         Plzeň sucho vodohospodářství vodní-díla krajinotvorba životní_prostředí
+tags:         Plzeň sucho vodohospodářství vodní-díla krajinotvorba životní_prostředí vodáci
 layout:       post
 title:        Jaký bude osud Boleveckých rybníků?
 image:        posts/br_01.jpg
