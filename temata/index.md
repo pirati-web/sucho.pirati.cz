@@ -39,7 +39,7 @@ keywords: sucho, témata, piráti
 
 			<tr>
 			  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/vodni-dila">VODÁCI A TURISTIKA</a></h2></td>
-			  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/vodni-dila">VODNÍ DÍLA</a></td>                  
+			  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/vodni-dila">VODNÍ DÍLA</a></h2></td>                  
 			  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/vodni-dila">VODNÍ DOPRAVA</h2></a></td>
 			</tr>
               
