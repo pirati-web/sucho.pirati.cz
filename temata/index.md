@@ -19,19 +19,7 @@ keywords: sucho, témata, piráti
 		  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/puda">PŮDA A VODA</a></h2></td>
 		</tr>
 
-		<tr>
-		  <td><a href="{{site.baseurl}}/temata/vodohospodarstvi">
-		  <img src="{{site.baseurl}}/assets/img/vodohospodarstvi2.jpg"  alt="vodohospodarstvi" width="345"height="230">
-		  </a></td>
-		  <td><a href="{{site.baseurl}}/temata/krajinotvorba"><img src="{{site.baseurl}}/assets/img/krajinotvorba.jpg"  alt="krajinotvorba" width="345" height="230"></a></td>
-		  <td><a href="{{site.baseurl}}/temata/vak"><img src="{{site.baseurl}}/assets/img/vak.jpg"  alt="vak" width="345" height="230"></a></td>
-		</tr>
-
-		<tr>
-		  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/vodohospodarstvi">VODOHOSPODÁŘSTVÍ</a></h2></td>
-		  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/krajinotvorba">KRAJINOTVORBA</a></h2></td>
-		  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/vak">V a K</a></h2></td>
-		</tr>              
+           
 
 		<tr>
 		  <td><a href="{{site.baseurl}}/temata/vodni-dila"><img src="{{site.baseurl}}/assets/img/vodni-dila.jpg"  alt="vodni-dila" width="345" height="230"></a></td>
@@ -44,6 +32,18 @@ keywords: sucho, témata, piráti
 		  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/vodni-dila">VODÁCI A TURISTIKA</a></h2></td>                  
 		  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/vodni-dila">VODNÍ DOPRAVA</a></h2></td>
 		</tr>
+		<tr>
+
+		  <td><a href="{{site.baseurl}}/temata/krajinotvorba"><img src="{{site.baseurl}}/assets/img/krajinotvorba.jpg"  alt="krajinotvorba" width="345" height="230"></a></td>
+		  <td>&nbsp;</td>
+		  <td><a href="{{site.baseurl}}/temata/vak"><img src="{{site.baseurl}}/assets/img/vak.jpg"  alt="vak" width="345" height="230"></a></td>
+		</tr>
+
+		<tr>
+		  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/krajinotvorba">KRAJINOTVORBA</a></h2></td>
+		  <td>&nbsp;</td>
+		  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/vak">V a K</a></h2></td>
+		</tr>   		
               </table>  
   </div>
 </div>
