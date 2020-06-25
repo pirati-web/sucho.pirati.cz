@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna zemědělství sucho vodohospodářství koloběh-vody vak půda-a-voda Radek-Holomčík
 layout:       post
 title:        "Zemědělský výbor podpořil návrhy Pirátů na lepší využití odpadní vody i zmapování odvodňovacích drenáží"
-image:        posts/radek-holomcik.jpg
+image:        posts/radek_holomcik.jpg
 author:       redakce Pirátské listy
 ---  
 
