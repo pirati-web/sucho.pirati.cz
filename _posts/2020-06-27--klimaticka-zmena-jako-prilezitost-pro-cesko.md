@@ -1,7 +1,7 @@
 ---
 date:         2020-06-27
 category:     blog
-tags:         klimatická-změna vodohospodářství sucho Mikuláš-Peksa
+tags:         klimatická-změna vodohospodářství sucho Mikuláš-Peksa komentář
 layout:       post
 title:        "Klimatická změna jako příležitost pro Česko"
 image:        posts/mikulas-peksa.jpg
