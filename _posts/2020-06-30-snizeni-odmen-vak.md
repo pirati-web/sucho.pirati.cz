@@ -5,8 +5,8 @@ title: 'Snížení odměn pro představitele VaK Kroměříž'
 date: 2020-06-30
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /posts/vak.jpeg
-tags: 'radnice kromeriz vak vratislav-krecir'
+image: posts/vak.jpeg
+tags: Kroměříž vak Vratislav-Krejčíř Jaromír-Horký kontrola-moci-a-mocných
 ---
 
 Včera se konala dlouho očekáváná Valná hromada Vodovodů a kanalizace Kroměříž, a.s. kde máme v představenstvu svého zástupce. Ten spolu s ostatními členy představenstva navrhl snížení odměn neuvolněných zástupců v představenstvu a dozorčí radě. 
