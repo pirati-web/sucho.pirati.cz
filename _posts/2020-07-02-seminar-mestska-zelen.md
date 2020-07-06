@@ -1,7 +1,7 @@
 ---
 date:         2020-05-13
 category:     blog
-tags:         krajinotvorba koloběh-vody klimatická-změna vak 
+tags:         vodohospodářství koloběh-vody klimatická-změna vak 
 layout:       post
 title:        "Zeleň jako účinná klimatizace sídel"
 image:        posts/balcarova.jpg
