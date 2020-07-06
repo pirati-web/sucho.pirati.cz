@@ -36,6 +36,7 @@ alias
   - lesnictví
   - zemědělství
   - rybářství
+  - zahrádkářství
   
 
 
