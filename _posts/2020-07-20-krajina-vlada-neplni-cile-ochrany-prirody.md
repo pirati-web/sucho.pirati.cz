@@ -1,7 +1,7 @@
 ---
 date:         2020-07-20
 category:     blog
-tags:         legislativa zivotni-prostredi krajinotvorba kontrola-moci-a-mocnych puda sucho
+tags:         legislativa zivotni-prostredi krajinotvorba kontrola-moci-a-mocných půda-a-voda sucho
 layout:       post
 title:        "Komentář Dany Balcarové: Vláda neplní cíle v ochraně přírody a krajiny, které si sama stanovila. Zaspala i v řešení sucha či povodní, Piráti chtějí nápravu "
 image:        posts/d-balcarova.jpg
