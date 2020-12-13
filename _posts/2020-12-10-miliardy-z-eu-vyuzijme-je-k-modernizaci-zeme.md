@@ -4,7 +4,7 @@ category:     blog
 tags:         sucho vodohospodářství půda-a-voda evropská-unie životní-prostředí finance
 layout:       post
 title:        "Využijme miliardy z fondů EU na pomoc lidem z ekonomické krize, modernizaci vzdělávání či ochranu vody a krajiny"
-image:        posts/peksa-kopriva.JPG
+image:        posts/peksa-kopriva.jpg
 author:       
 ---
 
