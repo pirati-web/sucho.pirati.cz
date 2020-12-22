@@ -7,6 +7,7 @@ titles:
 description: kandidátka do Senátu
 img: people/adela-sipova.jpg
 mail: adela.sipova@pirati.cz
+categories: senat
 mob:
 #  - 
 profiles:
