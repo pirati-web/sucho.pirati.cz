@@ -89,9 +89,13 @@ img: brand/logo.svg
                                     <div id="snemovna" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'primator'" %}
                                         {% include people/list-2col.html param=team %}
+                                    </div>    
+                                    <div id="snemovna" class="c-simple-accordion-content" data-tab-content="">    
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'hejtman'" %}
                                         {% include people/list-2col.html param=team %}
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'starosta'" %}
+                                    </div>    
+                                    <div id="snemovna" class="c-simple-accordion-content" data-tab-content="">
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'starostove'" %}
                                         {% include people/list-2col.html param=team %}
                                     </div>
                                 </li>
