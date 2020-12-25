@@ -4,9 +4,7 @@ name:     Jiří Lehejček  	# běžně používáné jméno
 fullname: Mgr. Ing. Jiří Lehejček, Ph.D.  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
-- starostove
-- primator
-- hejtman
+- garant
 
 img: people/jiri-lehejcek.jpg   # 165 x 220
 description: VŠ peedagog, polární ekolog # kratký popis, max 160 znaků
