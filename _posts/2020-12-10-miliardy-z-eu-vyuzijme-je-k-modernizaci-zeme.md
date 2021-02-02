@@ -5,7 +5,7 @@ tags:         sucho vodohospodářství půda-a-voda evropská-unie životní-pr
 layout:       post
 title:        "Využijme miliardy z fondů EU na pomoc lidem z ekonomické krize, modernizaci vzdělávání či ochranu vody a krajiny"
 image:        posts/peksa-kopriva.jpg
-author:       
+author:       Redakce Piráti
 ---
 
  
