@@ -5,7 +5,7 @@ tags:         sněmovna legislativa krajinotvorba půda-a-voda koloběh-vody
 layout:       post
 title:        "Piráti: Zahrádkářský zákon prošel Sněmovnou, přispěje k zadržování vody a zlepšení stavu městské zeleně"
 image:        posts/jan-posvar.jpg
-author:       
+author:       Jan Pošvář
 ---
  
 
