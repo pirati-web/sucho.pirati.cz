@@ -5,7 +5,6 @@ tags: sucho zemědělství krajinotvorba půda-a-voda koloběh-vody
 layout: post
 title: Polovině zemědělské půdy v Česku hrozí eroze
 author: Jan Pošvář
-authorId:  jan.posvar
 image: posts/2020-10-11-jan-posvar-puda-sucho.jpg
 ---
 
