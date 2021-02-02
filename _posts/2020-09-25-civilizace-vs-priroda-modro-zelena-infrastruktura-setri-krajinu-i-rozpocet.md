@@ -5,7 +5,6 @@ tags: sucho půda-a-voda koloběh-vody infrastruktura
 layout: post
 title: Civilizace vs. příroda. Modro-zelená infrastruktura šetří krajinu i rozpočet
 author: Václav Židek
-authorId: vaclav.zidek
 image: posts/2020-09-25-civilizace-vs-priroda-modro-zelena-infrastruktura-setri-krajinu-i-rozpocet-titulek.jpg
 ---
 Infrastruktura - kouzelné slovíčko, které se ve správě státu rozmělňuje na desítky nesouvisejících úkolů. Tím se ovšem její budování výrazně prodražuje a není efektivní. O které infrastruktuře je řeč? O jakékoliv – dopravní, komunikační, modro-zelené, nebo třeba o technické a veřejné vybavenosti. Zdá se vám, že to nijak nesouvisí? Ale ano, stačí se podívat blíže.
