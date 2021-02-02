@@ -5,9 +5,9 @@ tags:
   - životní-prostředí
   - vodohospodářství
   - sucho
-  - lesnictví
-  - rostlinná
-  - včelařství
+  - krajinotvorba
+  - půda-a-voda
+  - koloběh-vody
 layout: post
 title: Mokřady a voda aneb světový den mokřadů u nás i ve světě
 author: Blanka Lednická
@@ -16,7 +16,8 @@ image: posts/2021-02-02-mokrady-a-voda-aneb-svetovy-den.jpg
 important: true
 ---
 
-ČR, 2. února 2021 - **Dnes je to padesát let, co byla v íránském Rámsaru podepsána [úmluva o mokřadech.](https://www.mzp.cz/cz/ramsarska_umluva_o_mokradech) Tato mezinárodní úmluva vytvořila rámec pro ochranu a rozumné užívání všech typů mokřadů, které patří mezi nejcennější a přitom světově nejohroženější ekosystémy.**
+
+2. února 2021 - **Dnes je to padesát let, co byla v íránském Rámsaru podepsána [úmluva o mokřadech.](https://www.mzp.cz/cz/ramsarska_umluva_o_mokradech) Tato mezinárodní úmluva vytvořila rámec pro ochranu a rozumné užívání všech typů mokřadů, které patří mezi nejcennější a přitom světově nejohroženější ekosystémy.**
 
 Tehdejší Československo přistoupilo k úmluvě 2. února 1990 a po vzniku samostatné České republiky vznikl Český ramsarský výbor. Každý stát, který k úmluvě přistoupil, se zavázal zařadit alespoň jeden mokřad na svém území do Seznamu mokřadů mezinárodního významu. V ČR najdeme hned [čtrnáct takových lokalit.](http://mokrady.ochranaprirody.cz/o-mokradech-mokrady-mezinarodniho-vyznamu-v-ceske-republice/) Bohužel na území našeho kraje se nenachází ani jeden z nich. 
 
