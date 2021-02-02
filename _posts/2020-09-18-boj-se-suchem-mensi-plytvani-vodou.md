@@ -1,10 +1,11 @@
 ---
 date:         2020-09-18
-category:     blog
+category:     post
 tags:         sněmovna legislativa půda-a-voda koloběh-vody sucho
 layout:       post
 title:        "Piráti prosadili ve Sněmovně omezení plýtvání vodou i zveřejňování dat o jejích zásobách. Plní tak svůj plán na boj se suchem"
 image:        posts/vodu-resime.jpg
+author:       Radek Holomčík
 ---
 
 
