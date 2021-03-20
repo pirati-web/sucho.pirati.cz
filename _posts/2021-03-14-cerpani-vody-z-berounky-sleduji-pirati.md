@@ -5,7 +5,7 @@ tags:         rybníkářství pitná-voda koloběh-vody sucho
 layout:       post
 title: Čerpání vody z Berounky do Boleváku budí řadu otázek. Piráti vše sledují a přináší některé odpovědi.
 author: Magdaléna Daňková
-image: posts/Pirati_Bolevak_uvodka.jpg
+image: posts/rybnik_na_suchu.jpg
 ---
 
 Zvětšující se písčité pláže i ostrůvek a pokles hladiny zhruba jeden a půl metru pod úroveň přelivu je dnešní smutnou realitou Velkého boleveckého rybníka, který je největším z rybniční soustavy na Boleveckém potoce a je jedním z nejstarších dochovaných rybníků v Plzeňském kraji (vznikl v roce 1461). V posledních pěti letech nestačí Bolevecký potok nejen díky suchu, ale pravděpodobně i rozšiřující se zástavbě doplňovat rybník, a ten vysychá.
