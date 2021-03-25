@@ -30,7 +30,8 @@ group :jekyll_plugins do
   # gem "github-pages"
   gem "jekyll-assets", "3.0.11", group: :jekyll_plugins
   gem 'jekyll-environment-variables'
-  gem 'jekyll-redirect-from'  
+  gem 'jekyll-redirect-from'
+
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -46,6 +47,7 @@ gem "image_optim_bin" # Optional
 gem "image_optim_pack"
 # Make sure watch mode works A-OK on Windows too
 gem "wdm", "~> 0.1.1" if Gem.win_platform?
+gem 'kramdown-parser-gfm'
 
 group :development, :test do
   gem "html-proofer"
