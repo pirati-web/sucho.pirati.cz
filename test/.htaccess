@@ -1,0 +1,6 @@
+AuthUserFile /usr/local/etc/.htpasswd
+AuthName "Piratsky web v priprave"
+AuthType Basic
+<Limit GET POST>
+require valid-user
+</Limit>
