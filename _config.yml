@@ -5,7 +5,7 @@
 # technické nastavení
 #
 
-title: Sucho ! Piráti  # To co je napsané na tabu ve kterém je stránka.
+title: Sucho klimatické téma ! Piráti  # To co je napsané na tabu ve kterém je stránka.
 email: sucho@pirati.cz
 description: >-
   Sucho téma Piráti 
@@ -15,8 +15,8 @@ administrator:
   email: marek.krejpsky@gmail.com # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
 organization:
-  name: Česká pirátská strana
-  shortName: Piráti
+  name: SUCHO - PIRÁTI
+  shortName: Sucho Piráti
   email: pirati@pirati.cz
   phone: +420 608 963 111
 #  address: |
@@ -90,16 +90,12 @@ sass:
   style: compressed
   sass_dir: _sass
 
-theme: jekyll-theme-pirati
-
 markdown: kramdown
 theme: jekyll-theme-pirati
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-environment-variables
-  - jekyll-redirect-from
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
@@ -114,10 +110,7 @@ collections:
   people:
     output: true
     permalink: /lide/:path/
-
-  program:
-    output: true
-    permalink: /komunalni-volby/program/:path/
+ 
 
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
@@ -148,7 +141,6 @@ defaults:   # defaults values for collection scope
          - program
 
 emptyArray: []
-
 assets:
   source_maps: true
   compression: true
@@ -170,4 +162,5 @@ assets:
     - assets/fonts
     - assets/video
     - assets/img
+    - assets/img/posts
     - _sass
