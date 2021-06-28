@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.8"
+gem "jekyll", "~> 3.7.3"
 gem "jekyll-theme-pirati", "7.7.1"
 
 group :jekyll_plugins do
