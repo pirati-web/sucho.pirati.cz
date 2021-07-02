@@ -4,7 +4,7 @@ category:     blog
 tags:         klima půda-a-voda koloběh-vody sucho krajinotvorba
 layout:       post
 title:        "Komentář Dany Balcarové: Česko čelí extrémům. Na řádění přírodních živlů se musíme mnohem lépe připravit"
-image:        posts/extrem_pocasi.jpg
+image:        posts/pocasi_extrem.jpg
 author:       Dana Balcarová
 ---
 
