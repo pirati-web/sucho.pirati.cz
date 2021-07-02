@@ -14,9 +14,9 @@ keywords: sucho, témata, piráti
 		</tr>
 
 		<tr>
-		  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/sucho">SUCHO A KLIMA</a></h2></td>
-		  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/kolobeh-vody">KOLOBĚH VODY</a></h2></td>
-		  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/puda">PŮDA A VODA</a></h2></td>
+		  <td><h2 itemprop="headline" class="c-page-header text-black font-alt head-alt-sm"><a href="{{site.baseurl}}/temata/sucho">SUCHO A KLIMA</a></h2></td>
+		  <td><h2 itemprop="headline" class="c-page-header text-black font-alt head-alt-sm"><a href="{{site.baseurl}}/temata/kolobeh-vody">KOLOBĚH VODY</a></h2></td>
+		  <td><h2 itemprop="headline" class="c-page-header text-black font-alt head-alt-sm"><a href="{{site.baseurl}}/temata/puda">PŮDA A VODA</a></h2></td>
 		</tr>
 
            
@@ -28,9 +28,9 @@ keywords: sucho, témata, piráti
 		</tr>
 
 		<tr>
-		  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/vodni-dila">VODNÍ DÍLA</a></h2></td>
-		  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/vodni-dila">VODÁCKÁ TURISTIKA</a></h2></td>                  
-		  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/vodni-dila">VODNÍ DOPRAVA</a></h2></td>
+		  <td><h2 itemprop="headline" class="c-page-header text-black font-alt head-alt-sm"><a href="{{site.baseurl}}/temata/vodni-dila">VODNÍ DÍLA</a></h2></td>
+		  <td><h2 itemprop="headline" class="c-page-header text-black font-alt head-alt-sm"><a href="{{site.baseurl}}/temata/vodni-dila">VODÁCKÁ TURISTIKA</a></h2></td>                  
+		  <td><h2 itemprop="headline" class="c-page-header text-black font-alt head-alt-sm"><a href="{{site.baseurl}}/temata/vodni-dila">VODNÍ DOPRAVA</a></h2></td>
 		</tr>
 		<tr>
 
@@ -40,9 +40,9 @@ keywords: sucho, témata, piráti
 		</tr>
 
 		<tr>
-		  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/krajinotvorba">KRAJINOTVORBA</a></h2></td>
+		  <td><h2 itemprop="headline" class="c-page-header text-black font-alt head-alt-sm"><a href="{{site.baseurl}}/temata/krajinotvorba">KRAJINOTVORBA</a></h2></td>
 		  <td>&nbsp;</td>
-		  <td><h2 itemprop="headline" class="c-page-header"><a href="{{site.baseurl}}/temata/vak">VODOVODY A KANALIZACE</a></h2></td>
+		  <td><h2 itemprop="headline" class="c-page-header text-black font-alt head-alt-sm"><a href="{{site.baseurl}}/temata/vak">VODOVODY A KANALIZACE</a></h2></td>
 		</tr>   		
               </table>  
   </div>
