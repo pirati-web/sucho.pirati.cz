@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
@@ -7,12 +8,12 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.7"
+gem "jekyll", "~> 3.7.3"
 
 
 # Používá společné thema to je stále ve vývoji tj změny mužou být velké a je třeba důkladně testovat jestli se věci nerozbíjejí.
 # Comment this line for local development.
-gem "jekyll-theme-pirati", "7.7.1"
+gem "jekyll-theme-pirati", "~>7.5.0"
 
 # Uncomment this line for local development.
 # gem "jekyll-theme-pirati", github: "pirati-web/jekyll-theme-pirati", branch: "master"
@@ -27,7 +28,7 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
   # gem "github-pages"
-  gem "jekyll-assets", "3.0.11"
+  gem "jekyll-assets"
   gem 'jekyll-environment-variables'
 end
 
@@ -38,13 +39,10 @@ gem "json" # For gem building
 gem 'sprockets', '4.0.0.beta8'
 gem 'uglifier', '~> 4.0.0'
 gem "mini_magick"
-#gem "autoprefixer-rails"
+gem "autoprefixer"
 gem "image_optim"
 gem "image_optim_bin" # Optional
 gem "image_optim_pack"
 # Make sure watch mode works A-OK on Windows too
 gem "wdm", "~> 0.1.1" if Gem.win_platform?
 
-group :development, :test do
-  gem "html-proofer"
-end
