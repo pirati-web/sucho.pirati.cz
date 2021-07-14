@@ -170,7 +170,7 @@ GEM
     jekyll-theme-modernist (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
-    jekyll-theme-pirati (0.3.0)
+    jekyll-theme-pirati (6.7.2)
       jekyll (~> 3.6)
     jekyll-theme-primer (0.5.3)
       jekyll (~> 3.5)
@@ -221,7 +221,7 @@ GEM
     ruby-enum (0.7.2)
       i18n
     ruby_dep (1.5.0)
-    rubyzip (1.2.2)
+    rubyzip (2.3.0)
     safe_yaml (1.0.4)
     sass (3.6.0)
       sass-listen (~> 4.0.0)
@@ -249,7 +249,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-paginate
   jekyll-sitemap
-  jekyll-theme-pirati (~> 0.3.0)
+  jekyll-theme-pirati (~> 6.7.2)
   tzinfo-data
 
 BUNDLED WITH
