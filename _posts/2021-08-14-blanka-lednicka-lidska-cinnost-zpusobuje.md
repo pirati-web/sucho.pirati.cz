@@ -3,9 +3,10 @@ date: 2021-08-14
 category: blog
 tags:
  - změna klimatu
- - komentář
+ - sucho 
+ - koloběh-vody
 layout: post
-title: Komentář Blanky Lednické: Lidská činnost způsobuje změnu klimatu
+title: "Komentář Blanky Lednické: Lidská činnost způsobuje změnu klimatu"
 author: Blanka Lednická
 authorId: blanka.lednicka
 image: posts/2021-08-14-blanka-lednicka-lidska-cinnost-zpusobuje.png
