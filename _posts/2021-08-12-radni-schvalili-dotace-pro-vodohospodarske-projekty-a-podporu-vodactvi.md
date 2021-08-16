@@ -11,7 +11,7 @@ tags:
 title: 'Radní Středočeského kraje schválili vodohospodářské dotace a podpořily vodáctví - 102 milionů pro 101 vodohospodářských projektů'
 description: 'Radní Středočeského kraje c Pirátské koalice se STAN schválili vodohospodářské dotace a podpořily vodáctví - 102 milionů pro 101 vodohospodářských projektů'
 author: Soňa Brunnerová
-image: posts/vodaci_dva_predvolebni.jpg
+image: posts/vodaci_dva.jpg
 ---
 
 *Praha čtvrtek 12. srpna* - **Dnes se uskutečnilo další zasedání Rady Středočeského kraje. Naši radní podpořili návrh na udělení investičních dotací do vodohospodářské infrastruktury, nákup deseti sanitních vozů typu B. Byli jsme i pro návrh, aby české vodáctví bylo zapsáno na Seznam nemateriálních statků tradiční lidové kultury Středočeského kraje. Naši podporu získal také návrh na jmenování nových členů do školských rad na roky 2021-2024.**
