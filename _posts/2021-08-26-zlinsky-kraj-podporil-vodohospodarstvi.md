@@ -3,8 +3,8 @@ category: blog
 layout: post
 date: 2021-08-26
 tags: 
-  - vodohospodářství
-  - pitná-voda
+- vodohospodářství
+- pitná-voda
 title: 'Radní Zlínského kraje schválili dotace na podporu vodohospodářské infrastruktury
 description: 'Radní Zlínského kraje, kde vládne Pirátské koalice se ostatními stranami schválila vodohospodářské dotace'
 author: Hana Ančincová
