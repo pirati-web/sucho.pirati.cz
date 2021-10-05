@@ -3,9 +3,9 @@ date:         2021-10-04
 category:     blog
 tags:         půda-a-voda krajinotvorba
 layout:       post
-title:        "Komentář Dany Balcarové: Ministerstvo životního prostředí při plánování financování adaptace krajiny proti suchu a povodním zapomnělo na komplexnost řešení v  krajině. Naše koalice nabízí řešení"
+title:        "Ministerstvo životního prostředí při plánování financování adaptace krajiny proti suchu a povodním zapomnělo na komplexnost řešení v  krajině. Naše koalice nabízí řešení"
 image:        posts/dana-balcarova-voda.jpg
-author:       
+author:       Dana Balcarová
 ---
 
 
