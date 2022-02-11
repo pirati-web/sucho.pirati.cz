@@ -11,13 +11,33 @@ keywords:  Diplomacie ČR na Ukrajině 2022
 
     <div class="picture-container  px-10" id="randomize-text"><a id="pic">
      <canvas id="picture" width="800" height="800"></canvas></a>
-      <table><tr><td style="display:block;" id="intro"> A&nbsp;jak&nbsp;sluší&nbsp;helma&nbsp;vám?&nbsp;</td>
-     <td><form action="#" style="display:none">
-            <input name="custom-image" id="customImage" type="file" accept="image/*" />
-     </form> 
+      <table><tr><td style="display:block;" id="intro"><div> A&nbsp;jak&nbsp;sluší&nbsp;helma&nbsp;vám?&nbsp;</div><div id="navi"  style="display:none;" >
+       
+        <button id="upscaleBtn">
+       <b>Zvětšit</b>
+       </button>      
+       <button id="downscaleBtn">
+       <b>Zmenšit</b>
+       </button>
+        <button id="moveLeftBtn">
+       <b>Vlevo</b>
+       </button>
+        <button id="moveUpBtn">
+       <b>Nahoru</b>
+       </button>
+        <button id="moveDownBtn">
+       <b>Dolů</b>
+       </button>
+        <button id="moveRightBtn">
+       <b>Vpravo</b>
+       </button>
+        </div></td>
+     <td>
       <button id="customImageBtn">
        <b>Vložit vlastní portrét</b>
-       </button></td></tr></table>
+       </button><form action="#" style="display:none">
+            <input name="custom-image" id="customImage" type="file" accept="image/*" />
+     </form></td></tr></table>
     </div>
  
   </div>
