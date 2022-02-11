@@ -1,4 +1,5 @@
 
+
 const imageReader = new FileReader();
 
 const fgImage = new Image();
@@ -86,7 +87,9 @@ imageReader.addEventListener("load", (e) => {
 
   recruitImage.addEventListener("load", () => repaintImage());
   recruitImage.src = e.target.result;
-  drag=true;
+  drag=false;
+  dragEnd.x = canvas.width * 0.8;
+  dragEnd.y = canvas.height / 2;
   var y = document.getElementById("navi");
   y.style.display = "block";
   
@@ -178,5 +181,8 @@ canvas.addEventListener('mousemove', function(event) {
   }
 
 })
+
+
+
 
 
