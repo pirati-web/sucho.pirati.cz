@@ -43,7 +43,7 @@ canvas.addEventListener("drop", (e) => {
  
 var outlineImage = new Image();
 outlineImage.onload = function() {
-  // the default, set explicitly because we're changing it elsewhere
+ 
   ctx.globalCompositeOperation = 'source-over';
   // scale image to always fill the canvas
   const scaleX = canvas.width / outlineImage.width;
@@ -64,12 +64,12 @@ const repaintImage = async () => {
   ctx.globalCompositeOperation = 'source-atop';
   outlineImage.onload();
   // scale image to always fill the canvas
-  var scaleX = canvas.width / recruitImage.width;
-  var scaleY = canvas.height / recruitImage.height;
+  var scaleX = canvas.width / recruitImage.width*scaleImg;
+  var scaleY = canvas.height / recruitImage.height*scaleImg;
   var scale = Math.max(scaleX, scaleY);
   ctx.setTransform(scaleImg, 0, 0, scaleImg, 0, 0);
 
-  ctx.drawImage(recruitImage, (dragEnd.x-dragStart.x)-((recruitImage.width)*scaleImg), (dragEnd.y-dragStart.y)-((recruitImage.height)*scaleImg));
+  ctx.drawImage(recruitImage, (dragEnd.x-dragStart.x)-((recruitImage.width*2)*scaleImg), (dragEnd.y-dragStart.y)-((recruitImage.height)*scaleImg));
   
   scaleX = canvas.width / fgImage.width;
   scaleY = canvas.height / fgImage.height;
@@ -89,6 +89,8 @@ imageReader.addEventListener("load", (e) => {
   drag=true;
   var y = document.getElementById("navi");
   y.style.display = "block";
+  
+
 });
  
 const inputCustomImg = document.getElementById("customImage");
