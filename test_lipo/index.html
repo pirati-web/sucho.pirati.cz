@@ -4,40 +4,100 @@ title: Diplomacie ČR na Ukrajině 2022
 description:  Diplomacie ČR na Ukrajině 2022
 keywords:  Diplomacie ČR na Ukrajině 2022
 ---
+<style>
+/* For Mobile */
+@media screen and (max-width: 520px)  {
+    .outline {
+        width: 480px;
+        height: 480px;
+  }
+}
+  /* For Tablets */
+@media screen and (min-width: 520px) and (max-width: 620px)  {
+    .outline {
+        width: 520px;
+        height: 520px;
+  }
+}
 
+  /* For Tablets */
+@media screen and (min-width: 620px) and (max-width: 720px)  {
+    .outline {
+        width: 620px;
+        height: 620px;
+  }
+}
+
+  /* For Tablets */
+@media screen and (min-width: 720px) and (max-width: 840px)  {
+    .outline {
+        width: 720px;
+        height: 720px;
+  }
+}
+/* For Tablets */
+@media screen and (min-width: 840px) and (max-width: 1000px)  {
+    .outline {
+        width: 840px;
+        height: 840px;
+  }
+}
+
+/* For Screen */
+@media screen and (min-width: 1000px)  {
+    .outline {
+        width: 990px;
+        height: 990px;
+  }
+}
+
+.navigace {
+        width: 25px;
+        height: 25px;
+  }
+
+.navitab   table, tbody, tr, th, td{
+    background-color: rgba(0, 0, 0, 0.0) !important;
+}
+  
+.navitab {
+    background-color: rgba(0, 0, 0, 0.0) !important;
+    text-align: center;
+    border: none;
+    padding: 0px;
+  }
+</style>
 <div class="container center">
   <div class="row center">
    <div class=" grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-1 xl:grid-cols-1 lg:gap-0  center">
-
-    <div class="picture-container  px-10" id="randomize-text"><a id="pic">
-     <canvas id="picture" width="800" height="800"></canvas></a>
-      <table><tr><td style="display:block;" id="intro"><div> A&nbsp;jak&nbsp;sluší&nbsp;helma&nbsp;vám?&nbsp;</div><div id="navi"  style="display:none;" >
+      <div style="position:absolute; top:10; z-index:9999; display:block;" >
+         <div class="large ml-20 mt-5" style="position:relative; top:5%; left:90% !important; width:100%; text-align:right; z-index:9999; display:block;">
+          <button id="customImageBtn">
+           <h1><strong>VLOŽIT&nbsp;VLASTNÍ&nbsp;PORTRÉT</strong></h1>
+          </button><form action="#" style="display:none"><input name="custom-image" id="customImage" type="file" accept="image/*" /></form>
+         </div> 
+       </div>
+    <div class="picture-container" id="container"  style="position:relative;"><a id="pic">
+     <div  id="navi" style=" display:none;" >
+      <div style="position:absolute; top:7% !important; left:70% !important; z-index:9999;" ><table class="navitab">
+        <tr><td colspan=3><button id="moveUpBtn" class="navigace"><img src="/assets/img/ico_up.png"></button></td></tr>
+        <tr>
+        <td><button id="moveLeftBtn" class="navigace"><img src="/assets/img/ico_left.png"></button></td>
+        <td><button id="downscaleBtn" class="navigace"><img src="/assets/img/ico_zoom_out.png"></button>      
+        <button id="upscaleBtn" class="navigace"><img src="/assets/img/ico_zoom_in.png"></button></td>
+        <td><button id="moveRightBtn" class="navigace"><img src="/assets/img/ico_right.png"></button></td>
+        <tr><td colspan=3><button id="moveDownBtn" class="navigace"><img src="/assets/img/ico_down.png"></button></td></tr>
+        </table>
+      </div> 
+      <div style="position:absolute; top:12% !important; left:70% !important; z-index:9999;" >
        
-        <button id="upscaleBtn">
-       <b>Zvětšit</b>
-       </button>      
-       <button id="downscaleBtn">
-       <b>Zmenšit</b>
-       </button>
-        <button id="moveLeftBtn">
-       <b>Vlevo</b>
-       </button>
-        <button id="moveUpBtn">
-       <b>Nahoru</b>
-       </button>
-        <button id="moveDownBtn">
-       <b>Dolů</b>
-       </button>
-        <button id="moveRightBtn">
-       <b>Vpravo</b>
-       </button>
-        </div></td>
-     <td>
-      <button id="customImageBtn">
-       <b>Vložit vlastní portrét</b>
-       </button><form action="#" style="display:none">
-            <input name="custom-image" id="customImage" type="file" accept="image/*" />
-     </form></td></tr></table>
+
+      </div> 
+
+     </div>
+     <canvas id="picture" class="outline"  width=800 height=800></canvas></a>
+ 
+
     </div>
  
   </div>
