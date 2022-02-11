@@ -25,6 +25,7 @@ const setFile = (file) => {
 var drag = false;
 var dragStart;
 var dragEnd;
+var scaleImg = 1; 
 
 dragStart = {
   x: 0,
@@ -73,9 +74,9 @@ const repaintImage = async () => {
   var scaleX = canvas.width / recruitImage.width;
   var scaleY = canvas.height / recruitImage.height;
   var scale = Math.max(scaleX, scaleY);
-  //ctx.setTransform(scale/2, 0, 0, scale/2, 0, 0);
+  ctx.setTransform(scaleImg, 0, 0, scaleImg, 0, 0);
 
-  ctx.drawImage(recruitImage, (dragEnd.x-dragStart.x)-(recruitImage.width/2), (dragEnd.y-dragStart.y)-(recruitImage.height/2));
+  ctx.drawImage(recruitImage, (dragEnd.x-dragStart.x)-((recruitImage.width)*scaleImg), (dragEnd.y-dragStart.y)-((recruitImage.height)*scaleImg));
   
   scaleX = canvas.width / fgImage.width;
   scaleY = canvas.height / fgImage.height;
@@ -92,9 +93,9 @@ imageReader.addEventListener("load", (e) => {
 
   recruitImage.addEventListener("load", () => repaintImage());
   recruitImage.src = e.target.result;
-
-  var y = document.getElementById("intro");
-  y.innerHTML = "Myší se stisknutým tlačítkem obrázek posunete.";
+  drag=true;
+  var y = document.getElementById("navi");
+  y.style.display = "block";
 });
  
 const inputCustomImg = document.getElementById("customImage");
@@ -110,8 +111,44 @@ buttonCustomImg.addEventListener("click", () => {
   inputCustomImg.click();
 });
 
+const buttonUpscale = document.getElementById("upscaleBtn");
+buttonUpscale.addEventListener("click", () => {
+  scaleImg=scaleImg+0.1;
+  dragEnd.x = dragEnd.x + (scaleImg*(recruitImage.width/10))
+  repaintImage();
+});
 
- 
+const buttonDownscale = document.getElementById("downscaleBtn");
+buttonDownscale.addEventListener("click", () => {
+  scaleImg=scaleImg-0.1;
+  dragEnd.x = dragEnd.x + (scaleImg*recruitImage.width/8)
+  repaintImage();
+});
+
+const buttonMoveUp = document.getElementById("moveUpBtn");
+buttonMoveUp.addEventListener("click", () => {
+  dragEnd.y=dragEnd.y-5;
+  repaintImage();
+});
+
+const buttonMoveDown = document.getElementById("moveDownBtn");
+buttonMoveDown.addEventListener("click", () => {
+  dragEnd.y=dragEnd.y+5;
+  repaintImage();
+});
+const buttonMoveLeft = document.getElementById("moveLeftBtn");
+buttonMoveLeft.addEventListener("click", () => {
+  dragEnd.x=dragEnd.x-5;
+  repaintImage();
+});
+const buttonMoveRight = document.getElementById("moveRightBtn");
+buttonMoveRight.addEventListener("click", () => {
+  dragEnd.x=dragEnd.x+5;
+  repaintImage();
+});
+
+
+
 function clear() {
   ctx.clearRect(0, 0, canvas.width, canvas.height);
 }
@@ -128,7 +165,7 @@ canvas.addEventListener('mouseup', function(event) {
     x: event.pageX - canvas.offsetLeft,
     y: event.pageY - canvas.offsetTop
   }
-
+  repaintImage()
   drag = false;
 
 })
@@ -146,5 +183,8 @@ canvas.addEventListener('mousemove', function(event) {
   }
 
 })
+
+
+
 
 
