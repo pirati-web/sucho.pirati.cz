@@ -1,15 +1,8 @@
 
 const imageReader = new FileReader();
- 
-
-const bgImage = new Image();
-bgImage.src = "/assets/img/ukrajina_diplomacie.jpeg";
 
 const fgImage = new Image();
-
-
 const recruitImage = new Image();
-
 
 const canvas = document.getElementById("picture");
 const ctx = canvas.getContext("2d");
@@ -34,7 +27,7 @@ dragStart = {
 
 dragEnd = {
   x: canvas.width/2,
-  y: 120
+  y: canvas.height/3
 }
 
 canvas.addEventListener("dragover", (e) => e.preventDefault());
@@ -114,7 +107,7 @@ buttonCustomImg.addEventListener("click", () => {
 const buttonUpscale = document.getElementById("upscaleBtn");
 buttonUpscale.addEventListener("click", () => {
   scaleImg=scaleImg+0.1;
-  dragEnd.x = dragEnd.x + (scaleImg*(recruitImage.width/10))
+  dragEnd.x = dragEnd.x - (scaleImg*(recruitImage.width/8))
   repaintImage();
 });
 
@@ -127,13 +120,13 @@ buttonDownscale.addEventListener("click", () => {
 
 const buttonMoveUp = document.getElementById("moveUpBtn");
 buttonMoveUp.addEventListener("click", () => {
-  dragEnd.y=dragEnd.y-5;
+  dragEnd.y=dragEnd.y-4;
   repaintImage();
 });
 
 const buttonMoveDown = document.getElementById("moveDownBtn");
 buttonMoveDown.addEventListener("click", () => {
-  dragEnd.y=dragEnd.y+5;
+  dragEnd.y=dragEnd.y+4;
   repaintImage();
 });
 const buttonMoveLeft = document.getElementById("moveLeftBtn");
@@ -177,14 +170,11 @@ canvas.addEventListener('mousemove', function(event) {
       x: event.pageX - canvas.offsetLeft,
       y: event.pageY - canvas.offsetTop
     }
-    ctx.translate(dragEnd.x - dragStart.x, dragEnd.y - dragStart.y);
+    ctx.translate(dragEnd.x - dragStart.x - (recruitImage.width/2)*scaleImg, dragEnd.y - dragStart.y-(recruitImage.height/2)*scaleImg);
     repaintImage()
 //    dragStart = dragEnd;
   }
 
 })
-
-
-
 
 
