@@ -5,7 +5,7 @@ title: 'Mezinárodní den mokřadů: Voda patří do krajiny, ne do nádrží. C
 date: 2022-02-02
 author: Piráti Zlínský kraj
 authorId: 
-image: posts/hanka-mokrady-2022.jpg
+image: posts/hanka-mokrady.jpg
 tags: 
 - krajinotvorba
 - mokřady
