@@ -8,7 +8,7 @@ author: Piráti Jihočeský kraj
 image: posts/dl-web-brezen.jpg
 
 description: 'Zastupitelstvo Jihočeského kraje schválilo podporu mysliveckým, včelařským a rybářským sdružením, záchranným stanicím pro ohrožená zvířata a dále obcím na výsadbu zeleně. To jihočeští Piráti podpořili svými hlasy, nicméně k programu mají řadu konkrétních připomínek, které dosud nebyly zapracovány. Zejména je to rozšíření okruhu možných dotovaných projektů.'
-tags: krajinotvorba
+tags: krajinotvorba dotace
 
 ---
 **Zastupitelstvo Jihočeského kraje schválilo podporu mysliveckým, včelařským a rybářským sdružením, záchranným stanicím pro ohrožená zvířata a dále obcím na výsadbu zeleně. To jihočeští Piráti podpořili svými hlasy, nicméně k programu mají řadu konkrétních připomínek, které dosud nebyly zapracovány. Zejména je to rozšíření okruhu možných dotovaných projektů.**
